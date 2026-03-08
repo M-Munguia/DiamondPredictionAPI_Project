@@ -1,7 +1,10 @@
 # Diamond Prediction API
 
-Install Flask in the terminal:
+1) Install Flask in the terminal:
 pip install flask
 
-Run the app within from the proper directory:
+2)Install Xtreme Gradient Boost:
+pip install xgboost
+
+3)Run the app from the proper directory:
 python app.py
